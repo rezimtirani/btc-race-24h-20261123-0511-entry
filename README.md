@@ -27,8 +27,9 @@ market keeps it in.
 ## Dev window (24h before the opening)
 
 - Buy-and-hold reference: about +$35 on the dev window.
-- This bot: +$33.38 net on the dev window (local grade), 1 trade, max
-  drawdown 2.0% — comfortably above the dev gate (net PnL > 0).
+- This bot: +$31.93 net on the dev window (faithful local replay of the
+  kit's exact fill model), 1 trade, max drawdown 1.98% — comfortably above
+  the dev gate (net PnL > 0).
 
 ## Layout
 
